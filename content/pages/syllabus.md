@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   assignments, course format, and required texts.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +30,7 @@ For further detail, please see the {{% resource_link 40ed4c8c-6a49-d11b-c16b-2a3
 Required Texts
 --------------
 
-Frege, Gottlob. _The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number_. 2nd revised ed. Translated by J. L. Austin. Northwestern University Press, 1980. ISBN: 9780810106055. \[Preview with {{% resource_link "261ac1bb-003d-4bcb-9994-3e5bdbd6ed85" "Google Books" %}}\]
+Frege, Gottlob. _The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number_. 2nd revised ed. Translated by J. L. Austin. Northwestern University Press, 1980. ISBN: 9780810106055. \[Preview with [Google Books](http://books.google.com/books?id=z0KtOtNYMEQC&pg=PAfrontcover)\]
 
 ———. _The Frege Reader_. Edited by Michael Beaney. Blackwell Publishing, 1997. ISBN: 9780631194453.
 
@@ -38,7 +40,7 @@ Wittgenstein, Ludwig. _Tractatus Logico-Philosphicus_. Translated by D. F. Pears
 
 ———. _Philosophical Investigations_. 4th ed. Translated by G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte. Wiley-Blackwell, 2009. ISBN: 9781405159289.
 
-Moore, G. E. _Principia Ethica_. 2nd ed. Edited by Thomas Baldwin. Cambridge University Press, 1994. \[Preview with {{% resource_link "91cbf09b-ff8f-4316-b842-cd965533b249" "Google Books" %}}\]
+Moore, G. E. _Principia Ethica_. 2nd ed. Edited by Thomas Baldwin. Cambridge University Press, 1994. \[Preview with [Google Books](http://books.google.com/books?id=ZLpcgAQvr_gC&pg=PAfrontcover)\]
 
 Ayer, Alfred Jules. _Language, Truth and Logic_. 2nd ed. Dover Publications, 1952. ISBN: 9780486200101.
 

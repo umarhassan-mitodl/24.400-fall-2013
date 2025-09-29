@@ -4,6 +4,8 @@ description: This file contains information regarding handout 3.
 file: /courses/24-400-proseminar-in-philosophy-i-fall-2013/3de154199efc16caa6cf32680835b5e3_MIT24_400F13_Handout3.pdf
 file_size: 123302
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

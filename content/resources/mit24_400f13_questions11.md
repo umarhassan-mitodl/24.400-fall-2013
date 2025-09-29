@@ -4,6 +4,8 @@ description: 'This file contains information regarding questions 11. '
 file: /courses/24-400-proseminar-in-philosophy-i-fall-2013/35e629227147b27d99b4ba62bd665ee3_MIT24_400F13_Questions11.pdf
 file_size: 88147
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

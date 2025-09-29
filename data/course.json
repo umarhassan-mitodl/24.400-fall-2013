@@ -23,6 +23,7 @@
     "website": "24-400-proseminar-in-philosophy-i-fall-2013"
   },
   "course_title": "Proseminar in Philosophy I",
+  "hide_download": true,
   "course_description": "This course is an intensive seminar on the foundations of analytic philosophy for first-year graduate students. A large selection of classic texts, such as Frege's _Foundations of Arithmetic_, Russell's _Problems of Philosophy_, and Wittgenstein's _Philosophical Investigations_, is covered in this course.\n",
   "department_numbers": [
     "24"
@@ -33,6 +34,7 @@
     "content": "cf41fabd-6c72-aaf8-97bd-469abe3f4321",
     "website": "24-400-proseminar-in-philosophy-i-fall-2013"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],
